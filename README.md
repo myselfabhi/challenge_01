@@ -1,2 +1,2 @@
-challenge accepted \
+challenge accepted 
 
